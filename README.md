@@ -10,7 +10,7 @@ application for assessment 2. You will need the following packages
 installed to generate the gadget from this template:
 
 ``` r
-install.packages(c("shiny", "crosstalk", "plotly", "DT", "tidyverse", "here", "ggplot2"))
+install.packages(c("shiny", "crosstalk", "plotly", "DT", "tidyverse", "here", "ggplot2", "dplyr"))
 ```
 
 ## How to run the app
